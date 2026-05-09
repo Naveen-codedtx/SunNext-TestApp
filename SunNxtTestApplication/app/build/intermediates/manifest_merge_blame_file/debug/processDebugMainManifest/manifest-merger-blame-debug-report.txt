@@ -1,0 +1,180 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sunnxt_testapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <uses-feature
+13-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:7:5-9:36
+14        android:name="android.hardware.touchscreen"
+14-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:8:9-52
+15        android:required="false" />
+15-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:9:9-33
+16    <uses-feature
+16-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:10:5-12:36
+17        android:name="android.software.leanback"
+17-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:11:9-49
+18        android:required="false" />
+18-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:12:9-33
+19
+20    <permission
+20-->[androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+21        android:name="com.example.sunnxt_testapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+21-->[androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+22        android:protectionLevel="signature" />
+22-->[androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+23
+24    <uses-permission android:name="com.example.sunnxt_testapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+24-->[androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+24-->[androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+25
+26    <application
+26-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:14:5-34:19
+27        android:allowBackup="true"
+27-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:16:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+29        android:banner="@mipmap/ic_launcher"
+29-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:17:9-45
+30        android:debuggable="true"
+31        android:extractNativeLibs="false"
+32        android:icon="@mipmap/ic_launcher"
+32-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:18:9-43
+33        android:label="@string/app_name"
+33-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:19:9-41
+34        android:supportsRtl="true"
+34-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:20:9-35
+35        android:testOnly="true"
+36        android:theme="@style/Theme.SunNxtTestApplication"
+36-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:21:9-59
+37        android:usesCleartextTraffic="true" >
+37-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:15:9-44
+38        <activity
+38-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:22:9-33:20
+39            android:name="com.example.sunnxt_testapplication.MainActivity"
+39-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:23:13-41
+40            android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboardHidden|density"
+40-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:26:13-114
+41            android:exported="true"
+41-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:24:13-36
+42            android:resizeableActivity="true" >
+42-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:25:13-46
+43            <intent-filter>
+43-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:27:13-32:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:28:17-69
+44-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:28:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:30:17-77
+46-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:30:27-74
+47                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+47-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:31:17-86
+47-->/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:31:27-83
+48            </intent-filter>
+49        </activity>
+50
+51        <uses-library
+51-->[androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:23:9-25:40
+52            android:name="androidx.window.extensions"
+52-->[androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:24:13-54
+53            android:required="false" />
+53-->[androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:25:13-37
+54        <uses-library
+54-->[androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:26:9-28:40
+55            android:name="androidx.window.sidecar"
+55-->[androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:27:13-51
+56            android:required="false" />
+56-->[androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:28:13-37
+57
+58        <activity
+58-->[androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+59            android:name="androidx.compose.ui.tooling.PreviewActivity"
+59-->[androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+60            android:exported="true" />
+60-->[androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+61        <activity
+61-->[androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:23:9-26:79
+62            android:name="androidx.activity.ComponentActivity"
+62-->[androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:24:13-63
+63            android:exported="true"
+63-->[androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:25:13-36
+64            android:theme="@android:style/Theme.Material.Light.NoActionBar" />
+64-->[androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:26:13-76
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+68            android:authorities="com.example.sunnxt_testapplication.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:30:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+77-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:30:17-85
+78                android:value="androidx.startup" />
+78-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:31:17-49
+79        </provider>
+80
+81        <receiver
+81-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:34:9-52:20
+82            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+82-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:35:13-76
+83            android:directBootAware="false"
+83-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:36:13-44
+84            android:enabled="true"
+84-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:37:13-35
+85            android:exported="true"
+85-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:38:13-36
+86            android:permission="android.permission.DUMP" >
+86-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:39:13-57
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:40:13-42:29
+88                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+88-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:17-91
+88-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:25-88
+89            </intent-filter>
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:43:13-45:29
+91                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:17-85
+91-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:25-82
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:46:13-48:29
+94                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:17-88
+94-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:25-85
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:49:13-51:29
+97                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+97-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:17-95
+97-->[androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:25-92
+98            </intent-filter>
+99        </receiver>
+100    </application>
+101
+102</manifest>
