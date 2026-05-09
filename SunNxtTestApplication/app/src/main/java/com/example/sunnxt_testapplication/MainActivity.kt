@@ -3,45 +3,35 @@ package com.example.sunnxt_testapplication
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.tv.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.RectangleShape
-import androidx.compose.ui.tooling.preview.Preview
-import androidx.tv.material3.ExperimentalTvMaterial3Api
-import androidx.tv.material3.Surface
+import androidx.navigation.compose.rememberNavController
+import com.example.sunnxt_testapplication.core.device.DeviceType
+import com.example.sunnxt_testapplication.core.device.rememberDeviceType
+import com.example.sunnxt_testapplication.navigation.AppNavHost
 import com.example.sunnxt_testapplication.ui.theme.SunNxtTestApplicationTheme
 
 class MainActivity : ComponentActivity() {
-    @OptIn(ExperimentalTvMaterial3Api::class)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        enableEdgeToEdge()
         setContent {
-            SunNxtTestApplicationTheme {
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    shape = RectangleShape
-                ) {
-                    Greeting("Android")
-                }
+            val deviceType = rememberDeviceType()
+            SunNxtTestApplicationTheme(deviceType = deviceType) {
+                SunNxtApp(deviceType = deviceType)
             }
         }
     }
 }
 
 @Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
+private fun SunNxtApp(deviceType: DeviceType) {
+    val navController = rememberNavController()
+    AppNavHost(
+        navController = navController,
+        deviceType = deviceType,
+        modifier = Modifier.fillMaxSize(),
     )
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    SunNxtTestApplicationTheme {
-        Greeting("Android")
-    }
 }

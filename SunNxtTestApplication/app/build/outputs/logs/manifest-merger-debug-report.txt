@@ -1,0 +1,471 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [io.coil-kt:coil-svg:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4f0cb383a48b47cb7ac7374bb654d37a/transformed/coil-svg-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/09c64bf869f04e095f648126f7e01a04/transformed/coil-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7ac6b7c03e7178d291c89262c59362e6/transformed/coil-compose-base-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9f3cfd2566074fd27509dfa27b460763/transformed/coil-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2236cf0dcaa92c6143cb6a52d8450d6e/transformed/coil-base-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7cd9c374a4293ba6cf077e1b7332fb2e/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/db4a32ffd569954744bc80d1caa44de5/transformed/appcompat-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/626b5ac822031ad09f950ecbd74ba0e7/transformed/navigation-common-2.8.9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/3d29b95afad1516b7c91430123416353/transformed/navigation-runtime-2.8.9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/47691f87a429cfe031c20aa7e9966e73/transformed/navigation-common-ktx-2.8.9/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/55cc91a4689f4f25a460c3b1150ddd8b/transformed/navigation-runtime-ktx-2.8.9/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9ec70cdd26fb8653d3fd3fb3e904bdae/transformed/navigation-compose-2.8.9/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bd959ab21535742396ea691401f167ff/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tv:tv-foundation:1.0.0-alpha12] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/677440bbd359d90202eafed7188b1331/transformed/tv-foundation-1.0.0-alpha12/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.tv:tv-material:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d4db775bf75e25a2e57bcba4f29ce87a/transformed/tv-material-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/87932859f5dc4f7385eaa2a6d999dba1/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e4b0be5422976ce2b3d2385ac57f004f/transformed/material3-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0a1f3d708175b57d9941d008f40643f0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/02007b6308131e2d4f8a4b7370cd8fad/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6a996a91adf740d881c8eaf5fa595343/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/83d3e4434a9addfa4f56586d47db4205/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/b6f77825f8403d61c168b5eff229c477/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7cc6bfc1467a03d888bc50578e0e2602/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e8194625d4256edb63c94fe192dd6184/transformed/ui-tooling-data/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/5829491258908970b3d17d19271f583d/transformed/ui-tooling-preview/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/19de2ad86114413061cfccd21410f43e/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/1945d8f23cbaad3aa3e6e9682d32d6de/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/c79cdf7ec5fd66dd4e6f8179cac50df7/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/29ad3fd67c43e29b039fc24cacd00fe7/transformed/foundation-layout/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bb4b9969476e8e693803c7ea87615a16/transformed/animation-core/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/30db4ddd162bbb7964f6bf5dc3964676/transformed/animation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/73794bf6f9011252c51c208d7fe1a45d/transformed/ui-util/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8614fed710e23a9b6caaeb1324f18e86/transformed/ui-unit/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/cc2264f9404b5aa46a20d72f4fd26eb0/transformed/ui-text/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/46665a9724058cdf8277f3ed01908065/transformed/ui-geometry/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/fa2dc8f78197322efa599f647683d400/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/739e36e75fb15d64bd7607ac39357b48/transformed/graphics-path-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d991c22b63dc72b4f0b8c56f57cecf89/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6323cd13f3ff6fe7fa239477cf156486/transformed/lifecycle-livedata-core-ktx-2.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9f1b8fef955a8fbbd2d5c2a58b9e7f63/transformed/lifecycle-viewmodel-ktx-2.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/87b31c5b5def450c7479c593ad9a0b17/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/75999c539df0e067dc7fe0aa040a6510/transformed/lifecycle-viewmodel-2.10.0/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ecfb193254d201d08ed34e1d8a2a48f1/transformed/lifecycle-viewmodel/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/670f4c54fc426777dc27f61e53ec3241/transformed/navigationevent/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2be64e66e7b641641e7500a7c2afecaa/transformed/navigationevent-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/aa9dc529d993afd2615daff0f7932b59/transformed/runtime-annotation/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7295e33d899af2c84b5e45f04bbff0ce/transformed/runtime/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/432fc717e1395bf9a5ed2bac71b7f71d/transformed/runtime-saveable/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/541ecaa6e29609d8e084da36d12b0684/transformed/savedstate-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/065fe7e148db74e30feb24d75a70b625/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/19452cd5f64958934ac1570f4771c4e4/transformed/savedstate/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/615d02c9acf585ea6886dceed3de785c/transformed/lifecycle-runtime/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/082121d7137cd8f3d068b0fc60930af2/transformed/lifecycle-livedata-2.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6f307fcd2bc781da56656ea6bb021498/transformed/lifecycle-livedata-core-2.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d5e3b7fbf0193e68f51ac7339c431a8e/transformed/lifecycle-runtime-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0708831542c944744a997ef64275fef3/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/392ab4baa3ec29752b5d7c9d8b127a69/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/3e8aa59158a73015a94cc370be4afe17/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/479ae10f351edd850fb221962cff5193/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d1299209461da4b9a62fb0c8208f2e3e/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/1ca79deac390bd61719d857218165ace/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/170ef031839b1ad90fb262413144bec5/transformed/activity-ktx-1.12.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ec7dc0797e601411a033cc9475fb0f08/transformed/activity-1.12.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e708b824d089c1c647046c661a061dba/transformed/activity-compose-1.12.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/65a3d67f9cd6fa266a9e9aead15a9369/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0266e26b3a78f4246822e4b5ec489833/transformed/core-ktx-1.17.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/876233e01676ffb1f4e2e6eaa3544447/transformed/core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4e2c266edc23f751881bfb293fe78424/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2dad14851cb1ab0e9976f6dbaeeb8890/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bc7912a6b7e5d5f081828298a3bf33c6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ffb251dff5307e264481a09a9bfdeae7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/b678bdb29451801fa6c500cb24091d9d/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2415998783f11a204eb9fe184bacb1f7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e8250b117d03ffb3150dca1ec91db40e/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/331d86b8b98bc526f6b3315dfd5ce67f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.caverock:androidsvg-aar:1.4] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e5367eb2d611f9bbbeb69dd572a03939/transformed/androidsvg-aar-1.4/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:5:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:8:9-52
+uses-feature#android.software.leanback
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:10:5-12:36
+	android:required
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:11:9-49
+application
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:14:5-34:19
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:14:5-34:19
+MERGED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:22:5-27:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2415998783f11a204eb9fe184bacb1f7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2415998783f11a204eb9fe184bacb1f7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:16:9-35
+	android:banner
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:21:9-59
+	android:usesCleartextTraffic
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:15:9-44
+activity#com.example.sunnxt_testapplication.MainActivity
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:22:9-33:20
+	android:exported
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:24:13-36
+	android:resizeableActivity
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:25:13-46
+	android:configChanges
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:26:13-114
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:27:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:30:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:31:17-86
+	android:name
+		ADDED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml:31:27-83
+uses-sdk
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+MERGED from [io.coil-kt:coil-svg:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4f0cb383a48b47cb7ac7374bb654d37a/transformed/coil-svg-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-svg:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4f0cb383a48b47cb7ac7374bb654d37a/transformed/coil-svg-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/09c64bf869f04e095f648126f7e01a04/transformed/coil-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/09c64bf869f04e095f648126f7e01a04/transformed/coil-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7ac6b7c03e7178d291c89262c59362e6/transformed/coil-compose-base-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7ac6b7c03e7178d291c89262c59362e6/transformed/coil-compose-base-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9f3cfd2566074fd27509dfa27b460763/transformed/coil-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9f3cfd2566074fd27509dfa27b460763/transformed/coil-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2236cf0dcaa92c6143cb6a52d8450d6e/transformed/coil-base-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2236cf0dcaa92c6143cb6a52d8450d6e/transformed/coil-base-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7cd9c374a4293ba6cf077e1b7332fb2e/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7cd9c374a4293ba6cf077e1b7332fb2e/transformed/appcompat-resources-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/db4a32ffd569954744bc80d1caa44de5/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/db4a32ffd569954744bc80d1caa44de5/transformed/appcompat-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/626b5ac822031ad09f950ecbd74ba0e7/transformed/navigation-common-2.8.9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/626b5ac822031ad09f950ecbd74ba0e7/transformed/navigation-common-2.8.9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/3d29b95afad1516b7c91430123416353/transformed/navigation-runtime-2.8.9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/3d29b95afad1516b7c91430123416353/transformed/navigation-runtime-2.8.9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/47691f87a429cfe031c20aa7e9966e73/transformed/navigation-common-ktx-2.8.9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/47691f87a429cfe031c20aa7e9966e73/transformed/navigation-common-ktx-2.8.9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/55cc91a4689f4f25a460c3b1150ddd8b/transformed/navigation-runtime-ktx-2.8.9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/55cc91a4689f4f25a460c3b1150ddd8b/transformed/navigation-runtime-ktx-2.8.9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9ec70cdd26fb8653d3fd3fb3e904bdae/transformed/navigation-compose-2.8.9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.9] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9ec70cdd26fb8653d3fd3fb3e904bdae/transformed/navigation-compose-2.8.9/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bd959ab21535742396ea691401f167ff/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bd959ab21535742396ea691401f167ff/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tv:tv-foundation:1.0.0-alpha12] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/677440bbd359d90202eafed7188b1331/transformed/tv-foundation-1.0.0-alpha12/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tv:tv-foundation:1.0.0-alpha12] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/677440bbd359d90202eafed7188b1331/transformed/tv-foundation-1.0.0-alpha12/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tv:tv-material:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d4db775bf75e25a2e57bcba4f29ce87a/transformed/tv-material-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.tv:tv-material:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d4db775bf75e25a2e57bcba4f29ce87a/transformed/tv-material-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/87932859f5dc4f7385eaa2a6d999dba1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/87932859f5dc4f7385eaa2a6d999dba1/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e4b0be5422976ce2b3d2385ac57f004f/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e4b0be5422976ce2b3d2385ac57f004f/transformed/material3-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0a1f3d708175b57d9941d008f40643f0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0a1f3d708175b57d9941d008f40643f0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/02007b6308131e2d4f8a4b7370cd8fad/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/02007b6308131e2d4f8a4b7370cd8fad/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6a996a91adf740d881c8eaf5fa595343/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6a996a91adf740d881c8eaf5fa595343/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/83d3e4434a9addfa4f56586d47db4205/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/83d3e4434a9addfa4f56586d47db4205/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/b6f77825f8403d61c168b5eff229c477/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/b6f77825f8403d61c168b5eff229c477/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7cc6bfc1467a03d888bc50578e0e2602/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7cc6bfc1467a03d888bc50578e0e2602/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e8194625d4256edb63c94fe192dd6184/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e8194625d4256edb63c94fe192dd6184/transformed/ui-tooling-data/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/5829491258908970b3d17d19271f583d/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/5829491258908970b3d17d19271f583d/transformed/ui-tooling-preview/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/19de2ad86114413061cfccd21410f43e/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/19de2ad86114413061cfccd21410f43e/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/1945d8f23cbaad3aa3e6e9682d32d6de/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/1945d8f23cbaad3aa3e6e9682d32d6de/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/c79cdf7ec5fd66dd4e6f8179cac50df7/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/c79cdf7ec5fd66dd4e6f8179cac50df7/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/29ad3fd67c43e29b039fc24cacd00fe7/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/29ad3fd67c43e29b039fc24cacd00fe7/transformed/foundation-layout/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bb4b9969476e8e693803c7ea87615a16/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bb4b9969476e8e693803c7ea87615a16/transformed/animation-core/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/30db4ddd162bbb7964f6bf5dc3964676/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/30db4ddd162bbb7964f6bf5dc3964676/transformed/animation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/73794bf6f9011252c51c208d7fe1a45d/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/73794bf6f9011252c51c208d7fe1a45d/transformed/ui-util/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8614fed710e23a9b6caaeb1324f18e86/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8614fed710e23a9b6caaeb1324f18e86/transformed/ui-unit/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/cc2264f9404b5aa46a20d72f4fd26eb0/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/cc2264f9404b5aa46a20d72f4fd26eb0/transformed/ui-text/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/46665a9724058cdf8277f3ed01908065/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/46665a9724058cdf8277f3ed01908065/transformed/ui-geometry/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/fa2dc8f78197322efa599f647683d400/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/fa2dc8f78197322efa599f647683d400/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/739e36e75fb15d64bd7607ac39357b48/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/739e36e75fb15d64bd7607ac39357b48/transformed/graphics-path-1.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d991c22b63dc72b4f0b8c56f57cecf89/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d991c22b63dc72b4f0b8c56f57cecf89/transformed/emoji2-views-helper-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6323cd13f3ff6fe7fa239477cf156486/transformed/lifecycle-livedata-core-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6323cd13f3ff6fe7fa239477cf156486/transformed/lifecycle-livedata-core-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9f1b8fef955a8fbbd2d5c2a58b9e7f63/transformed/lifecycle-viewmodel-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/9f1b8fef955a8fbbd2d5c2a58b9e7f63/transformed/lifecycle-viewmodel-ktx-2.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/87b31c5b5def450c7479c593ad9a0b17/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/87b31c5b5def450c7479c593ad9a0b17/transformed/lifecycle-viewmodel-savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/75999c539df0e067dc7fe0aa040a6510/transformed/lifecycle-viewmodel-2.10.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/75999c539df0e067dc7fe0aa040a6510/transformed/lifecycle-viewmodel-2.10.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ecfb193254d201d08ed34e1d8a2a48f1/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ecfb193254d201d08ed34e1d8a2a48f1/transformed/lifecycle-viewmodel/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/670f4c54fc426777dc27f61e53ec3241/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-android:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/670f4c54fc426777dc27f61e53ec3241/transformed/navigationevent/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2be64e66e7b641641e7500a7c2afecaa/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigationevent:navigationevent-compose-android:1.0.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2be64e66e7b641641e7500a7c2afecaa/transformed/navigationevent-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/aa9dc529d993afd2615daff0f7932b59/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/aa9dc529d993afd2615daff0f7932b59/transformed/runtime-annotation/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7295e33d899af2c84b5e45f04bbff0ce/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7295e33d899af2c84b5e45f04bbff0ce/transformed/runtime/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/432fc717e1395bf9a5ed2bac71b7f71d/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/432fc717e1395bf9a5ed2bac71b7f71d/transformed/runtime-saveable/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/541ecaa6e29609d8e084da36d12b0684/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/541ecaa6e29609d8e084da36d12b0684/transformed/savedstate-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/065fe7e148db74e30feb24d75a70b625/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/065fe7e148db74e30feb24d75a70b625/transformed/savedstate-ktx-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/19452cd5f64958934ac1570f4771c4e4/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/19452cd5f64958934ac1570f4771c4e4/transformed/savedstate/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/615d02c9acf585ea6886dceed3de785c/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/615d02c9acf585ea6886dceed3de785c/transformed/lifecycle-runtime/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/082121d7137cd8f3d068b0fc60930af2/transformed/lifecycle-livedata-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/082121d7137cd8f3d068b0fc60930af2/transformed/lifecycle-livedata-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6f307fcd2bc781da56656ea6bb021498/transformed/lifecycle-livedata-core-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6f307fcd2bc781da56656ea6bb021498/transformed/lifecycle-livedata-core-2.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d5e3b7fbf0193e68f51ac7339c431a8e/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d5e3b7fbf0193e68f51ac7339c431a8e/transformed/lifecycle-runtime-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0708831542c944744a997ef64275fef3/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0708831542c944744a997ef64275fef3/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/392ab4baa3ec29752b5d7c9d8b127a69/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/392ab4baa3ec29752b5d7c9d8b127a69/transformed/lifecycle-viewmodel-compose/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/3e8aa59158a73015a94cc370be4afe17/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/3e8aa59158a73015a94cc370be4afe17/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/479ae10f351edd850fb221962cff5193/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/479ae10f351edd850fb221962cff5193/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d1299209461da4b9a62fb0c8208f2e3e/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/d1299209461da4b9a62fb0c8208f2e3e/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/1ca79deac390bd61719d857218165ace/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/1ca79deac390bd61719d857218165ace/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/170ef031839b1ad90fb262413144bec5/transformed/activity-ktx-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/170ef031839b1ad90fb262413144bec5/transformed/activity-ktx-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ec7dc0797e601411a033cc9475fb0f08/transformed/activity-1.12.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ec7dc0797e601411a033cc9475fb0f08/transformed/activity-1.12.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e708b824d089c1c647046c661a061dba/transformed/activity-compose-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.12.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e708b824d089c1c647046c661a061dba/transformed/activity-compose-1.12.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/65a3d67f9cd6fa266a9e9aead15a9369/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/65a3d67f9cd6fa266a9e9aead15a9369/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0266e26b3a78f4246822e4b5ec489833/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/0266e26b3a78f4246822e4b5ec489833/transformed/core-ktx-1.17.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/876233e01676ffb1f4e2e6eaa3544447/transformed/core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/876233e01676ffb1f4e2e6eaa3544447/transformed/core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4e2c266edc23f751881bfb293fe78424/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4e2c266edc23f751881bfb293fe78424/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2dad14851cb1ab0e9976f6dbaeeb8890/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2dad14851cb1ab0e9976f6dbaeeb8890/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bc7912a6b7e5d5f081828298a3bf33c6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/bc7912a6b7e5d5f081828298a3bf33c6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ffb251dff5307e264481a09a9bfdeae7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/ffb251dff5307e264481a09a9bfdeae7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/b678bdb29451801fa6c500cb24091d9d/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/b678bdb29451801fa6c500cb24091d9d/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2415998783f11a204eb9fe184bacb1f7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2415998783f11a204eb9fe184bacb1f7/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e8250b117d03ffb3150dca1ec91db40e/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e8250b117d03ffb3150dca1ec91db40e/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/331d86b8b98bc526f6b3315dfd5ce67f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/331d86b8b98bc526f6b3315dfd5ce67f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.caverock:androidsvg-aar:1.4] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e5367eb2d611f9bbbeb69dd572a03939/transformed/androidsvg-aar-1.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.caverock:androidsvg-aar:1.4] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/e5367eb2d611f9bbbeb69dd572a03939/transformed/androidsvg-aar-1.4/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/naveencodedtxmac/StudioProjects/SunNext-TestApp/SunNxtTestApplication/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.3.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/4717b189b8188438941ea64d5a3aefed/transformed/window-1.3.0/AndroidManifest.xml:27:13-51
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/8af1fc20cade911de7ec942f864705ae/transformed/ui-tooling/AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:23:9-26:79
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:25:13-36
+	android:theme
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:26:13-76
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.9.2] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/7a3346de249e23e25f7cf6d256679f23/transformed/ui-test-manifest-1.9.2/AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/965764b4d9a511efca35c8d82e577a81/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/2cf14b5ef9d524de796059e97944c077/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+permission#com.example.sunnxt_testapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.sunnxt_testapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/af9519121276b81950a7a78e6af45e91/transformed/core-1.17.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.10.0] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/6e8e872991ee34159d145c7c55f13dc5/transformed/lifecycle-process-2.10.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.1] /Users/naveencodedtxmac/.gradle/caches/8.13/transforms/424c42ba179ea676918cb52f34903aff/transformed/profileinstaller-1.4.1/AndroidManifest.xml:50:25-92

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa4fa346-6ee3-414d-9ca3-9fb4f300d804" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/java/com/example/sunnxt_testapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/java/com/example/sunnxt_testapplication/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/java/com/example/sunnxt_testapplication/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/java/com/example/sunnxt_testapplication/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/java/com/example/sunnxt_testapplication/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/app/src/main/java/com/example/sunnxt_testapplication/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunNxtTestApplication/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/SunNxtTestApplication/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp" value="3DTlk3UKeCxR9Hbgu19zaeisNar" />
+    </persistenceIdMap>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DTlk3UKeCxR9Hbgu19zaeisNar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/base__setup&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/naveencodedtxmac/StudioProjects/SunNext-TestApp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Android App.app" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4fa346-6ee3-414d-9ca3-9fb4f300d804" name="Changes" comment="" />
+      <created>1778314079831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778314079831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
